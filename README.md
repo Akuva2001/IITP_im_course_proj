@@ -27,4 +27,4 @@ Journal on Computing. — 1998. — Vol. 27, no. 1. — P. 107–119.
 сия для маломерных гистограмм // Сенсорные системы. — 2017. — Т. 31, No 4. — С. 331–342.
 
 ### link to colab (you can run the code online)
-[link](https://colab.research.google.com/drive/1aAcG_VQHPA2pJlqeNpzL_XeK7a9dxdqV?usp=sharing)
+## [USE_COLAB_LINK_TO_RUN_THE_CODE](https://colab.research.google.com/drive/1aAcG_VQHPA2pJlqeNpzL_XeK7a9dxdqV?usp=sharing)
